@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33080279/README.1.md)
 # EEG Seizure Detection — CHB-MIT Multi-Model Pipeline
 
 Deep-learning pipeline for automatic seizure detection on the [CHB-MIT Scalp EEG
